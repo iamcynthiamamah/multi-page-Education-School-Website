@@ -622,8 +622,9 @@ footer ul li a:hover{
     /*----------------------NAVBAR FOR SMALL DEVICE---------------------------*/
     .nav-menu{
         right: 3%;
+        width: 50%;
     }
-
+    
 
     /*----------------------HEADER FOR SMALL DEVICE---------------------------*/
     header{

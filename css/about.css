@@ -167,7 +167,7 @@
 
 /*===========================MEDIA QUERIES FOR MOBILE PHONE==========*/
 @media screen and (max-width: 600px){
-    .achievement-card{
+    .achievement-cards{
         grid-template-columns: 1fr 1fr;
         gap: 0.7rem;
     }
@@ -176,7 +176,6 @@
         grid-template-columns: 1fr 1fr;
         gap: 0.7rem;
     }
-
     .team-member{
         padding:0;
     }
